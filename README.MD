@@ -1,9 +1,3 @@
-# 🎥 Sistema de Monitoramento com YOLO + Tracking
-
-Detecção e contagem de pessoas em tempo real com rastreamento (ByteTrack), API REST, WebSocket e interface gráfica.
-
-## 📦 Instalação
-
 ```bash
 # 1. Clone ou baixe o projeto
 git clone https://github.com/seu-usuario/seu-repositorio.git
@@ -16,3 +10,5 @@ python -m venv venv
 
 # 3. Instale as dependências
 pip install -r requirements.txt
+
+# Rode: python app.py
